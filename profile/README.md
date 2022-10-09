@@ -33,4 +33,4 @@ go test ./... -coverprofile=cov.out
 limgo -coverfile=cov.out -config=.limgo.json -v=1
 ```
 
-[Read more »](https://github.com/GoTestTools/gotestfmt)
+[Read more »](https://github.com/GoTestTools/limgo)
