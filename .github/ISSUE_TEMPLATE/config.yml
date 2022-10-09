@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Discussions
+    url: https://github.com/GoTestTools/.github/discussions
+    about: Provide feedback, ask questions, discuss with others
