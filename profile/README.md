@@ -1,8 +1,8 @@
-## Go Test Tools
+# Go Test Tools
 
 Go Test Tools is a project by two Go developers, [@engelmi](https://github.com/engelmi) and [@janosdebugs](https://github.com/janosdebugs). We aim to make writing and maintaining tests easier for Go projects.
 
-### gotestfmt: go test output for humans
+## gotestfmt: go test output for humans
 
 Are you tired of scrolling through endless Golang test logs in GitHub Actions (or other CI systems)?
 
@@ -21,7 +21,7 @@ Tadam, your tests will now show up in a beautifully formatted fashion. Plug it i
 
 ---
 
-### limgo: Don't let your test coverage drop
+## limgo: Don't let your test coverage drop
 
 Do you need to guard your Go test coverage and make sure it doesn't drop below a limit? Then [limgo](https://github.com/GoTestTools/limgo) is the right tool for you.
 
